@@ -1,1 +1,1 @@
-# sticknavbar1
+# stickynavbar1
